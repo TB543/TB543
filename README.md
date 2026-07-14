@@ -115,7 +115,6 @@ A modern implementation of the classic Snake game focusing on core game loops, r
 
 * CustomTkinter
 * Unity
-* OpenCV
 * Apache Spark
 * Apache Kafka
 * Apache Airflow
@@ -129,7 +128,6 @@ A modern implementation of the classic Snake game focusing on core game loops, r
 * Desktop Application Development
 * Data Engineering
 * Automation
-* Computer Vision
 * Game Development
 * Hardware Integration
 * Audio Processing
@@ -145,7 +143,6 @@ I'm always looking for opportunities to learn new technologies and improve my so
 * Creating polished user interfaces
 * AI-assisted software development
 * Hardware/software integration
-* Computer vision and automation
 
 ---
 
@@ -153,6 +150,4 @@ I'm always looking for opportunities to learn new technologies and improve my so
 
 These repositories represent only a portion of my work. Feel free to browse my GitHub profile to see additional projects, experiments, and ideas.
 
-➡️ **GitHub:** https://github.com/TB543
-
-If you'd like to connect or discuss software development, data engineering, UI/UX, or any of my projects, don't hesitate to reach out through LinkedIn!
+➡️ **GitHub:** https://github.com/TB543?tab=repositories
